@@ -1,3 +1,11 @@
-.nav {
-    flex-direction: row;
+.footer {
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    height: 50px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    font-size: 8pt;
+    border-top: solid 8px;
+    border-color: #4aaaa5;
 }

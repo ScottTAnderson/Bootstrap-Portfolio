@@ -1,13 +1,11 @@
-.footer {
-    background-color: #666666;
-    text-align: center;
-    color: #cccccc;
-    height: 50px;
-    padding-top: 25px;
-    padding-bottom: 0px;
-    font-size: 8pt;
-    border-top: solid 8px;
-    border-color: #4aaaa5;
+.block {
+    background-color: #ffffff;
+    border: gray solid 1px;
+    padding: 2rem;
+}
+
+.center-block {
+    margin: 10px 1px 10px 1px;
 }
 
 h1 {
@@ -31,4 +29,16 @@ h1 {
     width:200px;
     height:auto;
     padding:10px;
+}
+
+.footer {
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    height: 50px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    font-size: 8pt;
+    border-top: solid 8px;
+    border-color: #4aaaa5;
 }

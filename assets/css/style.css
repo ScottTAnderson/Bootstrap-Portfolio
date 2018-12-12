@@ -8,7 +8,7 @@ body {
 }
 .block {
     background-color: #ffffff;
-    border: gray solid 1px;
+    border: #cccccc solid 1px;
     padding: 2rem;
 }
 

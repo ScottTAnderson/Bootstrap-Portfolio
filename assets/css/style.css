@@ -1,8 +1,3 @@
-html {
-    position: relative;
-    height:100%;
-}
-
 .block {
     background-color: #ffffff;
     border: #cccccc solid 1px;
@@ -53,13 +48,22 @@ html {
     min-height: 100%
     }
     
-    body {
+body {
+    background-image: url("../images/spiration-light.png");
     margin-bottom: 60px;
-    }
-    
-    footer {
-    bottom:0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
     width: 100%;
-    height: 100%;
- }
-    
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    height: 60px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    font-size: 8pt;
+    border-top: solid 8px;
+    border-color: #4aaaa5;
+}
